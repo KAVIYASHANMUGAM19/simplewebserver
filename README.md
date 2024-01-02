@@ -24,7 +24,6 @@ Testing the webserver.
 ![image](https://github.com/KAVIYASHANMUGAM19/simplewebserver/assets/155141139/113bb223-737d-4909-a795-449bed487fba)
 ![image](https://github.com/KAVIYASHANMUGAM19/simplewebserver/assets/155141139/5aa8cab3-6c06-4959-a3ee-b292d6c0991d)
 
-
 ## OUTPUT:
 ![image](https://github.com/KAVIYASHANMUGAM19/simplewebserver/assets/155141139/2ad98d51-7911-48c4-84cd-e069f0452f4e)
 
